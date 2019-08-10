@@ -2,6 +2,7 @@ A collection of interesting reads and sources for Screeps
 
 # Wikis
  - An alternative Screeps wiki https://wiki.screepspl.us/index.php/Screeps_Wiki
+ - Private Server Common Tasks https://wiki.screepspl.us/index.php/Private_Server_Common_Tasks
 
 
 # Blogs
