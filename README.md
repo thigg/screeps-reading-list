@@ -11,7 +11,7 @@ A collection of interesting reads and sources for Screeps
   - https://arcath.net/articles/screeps
 # Competitive
 
- - Arena and Contests: https://screepswargames.us/
+ - Arena and Contests: https://screepspl.us/events/
 
 # Tools ets
  - For snippets, starter script, everything for your private server, etc  https://github.com/screepers 
